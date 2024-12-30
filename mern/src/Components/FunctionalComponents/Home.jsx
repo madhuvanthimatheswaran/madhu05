@@ -11,7 +11,7 @@ var NavBar = () => {
             <h1 style={styling}>KONGU ENGINEERING COLLEGE,PERUNDURAI</h1>
             <h2 id="idSEsg">DEPARTMENT OF CSE</h2>
             <p className='box-model'>
-                MADHUVANTHI M - 22CSR110
+                WELCOME TO KEC
             </p>
         </header>
     );

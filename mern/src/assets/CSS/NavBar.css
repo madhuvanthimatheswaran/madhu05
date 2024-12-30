@@ -1,19 +1,27 @@
 ul{
     display: flex;
-    padding: 0;
-    width:auto;
+    padding: 30px;
+    width:1000px;
     margin: 0;
     justify-content: space-evenly;
     text-decoration: none;
     list-style-type: none;
     background-color:palevioletred;
+    padding:30px;
 }
 li{
     cursor:pointer;
-    padding: 5px;
+    padding: 30px;
 }
 li:hover{
     background-color:white;
-    border-radius: 10px;
-    padding: 5px;
+    border-radius: 20px;
+    padding: 30px;
+}
+.link{
+    cursor:pointer;
+    padding:30px;
+    border:10px;
+    background-color:blue;
+
 }
