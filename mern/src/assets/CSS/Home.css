@@ -1,0 +1,18 @@
+.box-model{
+    font-size: 50px;
+    margin: 10px; 
+    border: 10px solid #888;
+    padding: 15px;
+    background-color: #63defa; 
+    color: #333;
+    border-radius: 8px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+    text-align: center; 
+
+}
+
+#idSEsg{
+    color:red;
+    text-align: center;
+    text-decoration: underline;
+}

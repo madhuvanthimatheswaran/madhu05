@@ -1,0 +1,19 @@
+ul{
+    display: flex;
+    padding: 0;
+    width:auto;
+    margin: 0;
+    justify-content: space-evenly;
+    text-decoration: none;
+    list-style-type: none;
+    background-color:palevioletred;
+}
+li{
+    cursor:pointer;
+    padding: 5px;
+}
+li:hover{
+    background-color:white;
+    border-radius: 10px;
+    padding: 5px;
+}
