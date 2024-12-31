@@ -6,6 +6,7 @@ import Gallery from './Components/FunctionalComponents/Gallery';
 import NavBar from './Components/FunctionalComponents/NavBar';
 import Home from "./Components/FunctionalComponents/Home";
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import Footer from './Components/FunctionalComponents/Footer';
 
 function App() {
   
@@ -19,6 +20,7 @@ function App() {
         <Route path="/contact" element={<Contact/>}></Route>
         <Route path="/gallery" element={<Gallery/>}></Route>
       </Routes>
+      <Footer/>
       </BrowserRouter>
       
       

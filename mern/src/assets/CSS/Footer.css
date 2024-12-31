@@ -1,0 +1,42 @@
+.footer {
+    background-color: #0a0a0a;
+    text-align: center;
+    padding: 20px;
+    width: 1000px;
+    border-radius: 20px;
+  }
+  
+  .footer h2 {
+    margin-bottom: 15px;
+  }
+  
+  .signup-form {
+    display: inline-block;
+    text-align: left;
+  }
+  
+  .input-field {
+    display: block;
+    margin: 10px 0;
+    padding: 10px;
+    width: 100%;
+    max-width: 300px;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+  }
+  
+  .submit-button {
+    display: block;
+    margin: 10px 0;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .submit-button:hover {
+    background-color: #0056b3;
+  }
+  
