@@ -1,27 +1,22 @@
 ul{
     display: flex;
-    padding: 30px;
-    width:1000px;
-    margin: 0;
+    padding: 20px;
+    margin: 0px;
     justify-content: space-evenly;
     text-decoration: none;
     list-style-type: none;
     background-color:palevioletred;
-    padding:30px;
+    color: aliceblue;
+    padding: 0px;
+    border-radius: 20px;
+
 }
 li{
-    cursor:pointer;
-    padding: 30px;
+    cursor: pointer;
+    padding: 25px;
 }
 li:hover{
-    background-color:white;
-    border-radius: 20px;
-    padding: 30px;
-}
-.link{
-    cursor:pointer;
-    padding:30px;
-    border:10px;
-    background-color:blue;
-
+    color: black;
+    background-color: aquamarine;
+    border-radius: 15px;
 }

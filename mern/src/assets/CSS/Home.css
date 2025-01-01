@@ -1,18 +1,12 @@
-.box-model{
-    font-size: 50px;
-    margin: 10px; 
-    border: 10px solid #888;
-    padding: 15px;
-    background-color: #63defa; 
-    color: #333;
-    border-radius: 8px; 
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
-    text-align: center; 
-
+.box-model {
+    background-color: #f0f0f0;
+  text-align: center;
+  padding: 20px;
+  border-radius: 20px;
+  background-color: rgb(253, 192, 248);
 }
 
-#idSEsg{
-    color:red;
+#idSEg{
+    color: rgb(232, 89, 12);
     text-align: center;
-    text-decoration: underline;
 }
